@@ -17,7 +17,8 @@
     position: absolute;
     left: -17em;
     background-color: #000;
-    font-size: 7px; /* pixel size */
+    font-size: 2px; /* pixel size */
+        font-color: #000;
     height: 1em;
     margin-bottom: 37em;
     margin-left: 17em;
