@@ -2,12 +2,6 @@ body {
         padding: 3em;
 }
 
-#under-construction {
-        width: 20px;
-        height: 20px;
-        zoom:100%;
-}
-
 .construction:after {
         background-color: #fdd400; /* colour of the sign */
         border-radius: 3em;
@@ -23,6 +17,7 @@ body {
 .construction {
         animation: work .375s steps(1, start) infinite;
         font-size: 2px; /* pixel size */
+        font-color: #000000;
         height: 1em;
         margin-bottom: 37em;
         margin-left: 17em;
